@@ -1,0 +1,15 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Assignment1 WEB322 ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yuri Henrique de Oliveira Falcao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
